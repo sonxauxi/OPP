@@ -19,8 +19,7 @@ public class dev extends company {
     public void salaryyy() {
         float devsalary = salary + (overtime * 200000);
 
-        System.out.printf("%4s  %5s  %14s  %10s  %7.0f$  %5.1f h   %7.0f$\n", id, name, email, phone, salary, overtime,
-                devsalary);
+        System.out.printf("%4s  %5s  %14s  %10s  %7.0f$  %5.1f h   %7.0f$\n", id, name, email, phone, salary, overtime, devsalary);
     }
 
     public void setOvertime(float overtime) {
