@@ -7,7 +7,7 @@ public class Studentt {
     public void Mark(){
         float AverageMark = (TheoreticalScore+PracticeCore)/2;
         System.out.println("Tên: "+ name + " \nMã sinh viên: "+ MSSV);
-        System.out.println("Diem so: "+AverageMark);
+        System.out.println("Diem so TB: "+AverageMark);
         
     }
 
