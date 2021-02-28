@@ -18,8 +18,7 @@ public class tester extends company {
 
     public void salaryyyy() {
         float testersalary = salary + (error * 50000);
-        System.out.printf("%4s  %5s  %14s  %10s  %7.0f$  %5.1f err  %7.0f$\n", id, name, email, phone, salary, error,
-                testersalary);
+        System.out.printf("%4s  %5s  %14s  %10s  %7.0f$  %5.1f err  %7.0f$\n", id, name, email, phone, salary, error, testersalary);
     }
 
     public void setError(float error) {
