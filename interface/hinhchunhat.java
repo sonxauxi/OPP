@@ -1,5 +1,16 @@
+import java.util.Scanner;
+
 public class hinhchunhat extends hinhhoc implements lhinhchunhat {
     double c;
+    int a ;
+    int b ;
+    Scanner scanner = new Scanner(System.in);
+    public void input(){
+        System.out.println("nhap canh a: ");
+        a = scanner.nextInt();
+        System.out.println("nhap canh b: ");
+        b = scanner.nextInt();
+    }
 
     @Override
     public double duongcheo() {
@@ -9,9 +20,9 @@ public class hinhchunhat extends hinhhoc implements lhinhchunhat {
     }
 
     public double chuvichunhat() {
-        P = (int) ((double) (a + b) * 2);
-        System.out.println(" Chu vi: " + P);
-        return P;
+        setP((int) ((double) (a + b) * 2));
+        System.out.println(" Chu vi: " + getP());
+        return getP();
     }
 
     public double dientichchunhat() {
