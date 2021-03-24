@@ -13,15 +13,6 @@ public class teacherss extends persons {
         this.salary = salary;
     }
 
-    @Override
-    public int compareTo(persons o) {
-        return this.getName().compareTo(o.getName());
-    }
-    // @Override
-    // public int compare(persons m, persons n) {
-    //     return m.salary > n.salary ? 1 : -1;
-    // }
-
  
 
     @Override
