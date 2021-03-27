@@ -21,7 +21,7 @@ A . Không có lỗi biên dịch
 Câu 5: Đâu là khai báo đúng về lớp Cat:
 A. class Cat{}
 B . public class Cat{}
-D . public Cat{}
+
 
 Câu 6: Có bao nhiêu nền tảng java
 A . 3
