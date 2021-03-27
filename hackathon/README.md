@@ -7,6 +7,7 @@ Mình chọn cả 3, mình tưởng next() nhận kí tự trước khoảng tr�
 
 
 Câu 2: Gói nào trong java chứa lớp Scanner dùng để nhập dữ liệu từ bàn phím
+
 C . java.util
 
 Câu 3: 
