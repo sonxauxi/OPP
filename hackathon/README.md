@@ -1,7 +1,7 @@
 Câu 1: Phương thức next() của lớp Scanner dùng để:
 C . Nhập một chuỗi
 
-Mình chọn cả 3, mình tưởng next() nhận kí tự trước khoảng trắng (space) ạ
+
 
 
 Câu 2: Gói nào trong java chứa lớp Scanner dùng để nhập dữ liệu từ bàn phím
