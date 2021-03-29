@@ -1,6 +1,4 @@
 Câu 1: Phương thức next() của lớp Scanner dùng để:
-A . Nhập một số nguyên
-B . Nhập một ký tự
 C . Nhập một chuỗi
 
 Mình chọn cả 3, mình tưởng next() nhận kí tự trước khoảng trắng (space) ạ
@@ -19,7 +17,6 @@ A . Không có lỗi biên dịch
 
 
 Câu 5: Đâu là khai báo đúng về lớp Cat:
-A. class Cat{}
 B . public class Cat{}
 
 
