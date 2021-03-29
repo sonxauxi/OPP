@@ -9,7 +9,7 @@ Câu 2: Gói nào trong java chứa lớp Scanner dùng để nhập dữ liệu
 C . java.util
 
 Câu 3: 
-A . x = -1, y = 2
+B. Exception in thread "main" java.lang.Error
 
 Câu 4: Đoạn mã sau có lỗi biên dịch gì?
 A . Không có lỗi biên dịch
